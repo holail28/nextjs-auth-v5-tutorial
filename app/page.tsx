@@ -23,7 +23,7 @@ export default function Home() {
           Un service d'authentification simple
         </p>
         <div>
-          <LoginButton>
+          <LoginButton asChild>
             <Button variant="secondary" size="lg">
               Connexion
             </Button>
